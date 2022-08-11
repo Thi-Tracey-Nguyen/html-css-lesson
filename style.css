@@ -1,0 +1,13 @@
+h1 {
+    color: #124c7fa1;
+}
+.bold-red {
+    color: rgb(142, 13, 35);
+    font-weight: bold;
+}
+.big {
+    font-size: 2rem;
+}
+#second-item {
+    padding-left: 2rem;
+}
